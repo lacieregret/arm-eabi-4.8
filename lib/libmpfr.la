@@ -17,7 +17,7 @@ old_library='libmpfr.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/home/pinkflozd/android/to/.build/arm-TeamHackLG-linux-gnueabi/buildtools/lib /home/pinkflozd/android/to/.build/arm-TeamHackLG-linux-gnueabi/buildtools/lib/libgmp.la'
+dependency_libs=' -L/home/pinkflozd/android/t/.build/arm-unknown-linux-gnueabi/buildtools/lib /home/pinkflozd/android/t/.build/arm-unknown-linux-gnueabi/buildtools/lib/libgmp.la'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/pinkflozd/android/to/.build/arm-TeamHackLG-linux-gnueabi/buildtools/lib'
+libdir='/home/pinkflozd/android/t/.build/arm-unknown-linux-gnueabi/buildtools/lib'
